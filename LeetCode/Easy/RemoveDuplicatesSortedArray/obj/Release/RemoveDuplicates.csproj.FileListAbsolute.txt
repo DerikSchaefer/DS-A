@@ -1,8 +1,0 @@
-C:\MSSA\Duplicates\RemoveDuplicates\obj\Release\RemoveDuplicates.csproj.AssemblyReference.cache
-C:\MSSA\Duplicates\RemoveDuplicates\obj\Release\RemoveDuplicates.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\Duplicates\RemoveDuplicates\obj\Release\RemoveDuplicates.csproj.CoreCompileInputs.cache
-C:\MSSA\Duplicates\RemoveDuplicates\bin\Release\RemoveDuplicates.exe.config
-C:\MSSA\Duplicates\RemoveDuplicates\bin\Release\RemoveDuplicates.exe
-C:\MSSA\Duplicates\RemoveDuplicates\bin\Release\RemoveDuplicates.pdb
-C:\MSSA\Duplicates\RemoveDuplicates\obj\Release\RemoveDuplicates.exe
-C:\MSSA\Duplicates\RemoveDuplicates\obj\Release\RemoveDuplicates.pdb
