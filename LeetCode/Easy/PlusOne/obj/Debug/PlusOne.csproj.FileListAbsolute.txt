@@ -1,8 +1,0 @@
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\obj\Debug\PlusOne.csproj.AssemblyReference.cache
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\obj\Debug\PlusOne.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\obj\Debug\PlusOne.csproj.CoreCompileInputs.cache
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\bin\Debug\PlusOne.exe.config
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\bin\Debug\PlusOne.exe
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\bin\Debug\PlusOne.pdb
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\obj\Debug\PlusOne.exe
-C:\MSSA\DSA\LeetCode\Easy\ArrayPlusOne\PlusOne\obj\Debug\PlusOne.pdb
