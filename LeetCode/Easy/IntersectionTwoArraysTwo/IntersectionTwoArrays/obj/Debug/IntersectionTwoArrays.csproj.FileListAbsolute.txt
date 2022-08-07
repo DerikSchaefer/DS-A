@@ -1,8 +1,0 @@
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\obj\Debug\IntersectionTwoArrays.csproj.AssemblyReference.cache
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\obj\Debug\IntersectionTwoArrays.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\obj\Debug\IntersectionTwoArrays.csproj.CoreCompileInputs.cache
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\bin\Debug\IntersectionTwoArrays.exe.config
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\bin\Debug\IntersectionTwoArrays.exe
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\bin\Debug\IntersectionTwoArrays.pdb
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\obj\Debug\IntersectionTwoArrays.exe
-C:\MSSA\DSA\LeetCode\Easy\IntersectionTwoArraysTwo\IntersectionTwoArrays\obj\Debug\IntersectionTwoArrays.pdb
