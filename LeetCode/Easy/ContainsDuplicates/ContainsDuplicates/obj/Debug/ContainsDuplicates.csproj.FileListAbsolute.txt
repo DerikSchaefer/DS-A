@@ -1,8 +1,0 @@
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\obj\Debug\ContainsDuplicates.csproj.AssemblyReference.cache
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\obj\Debug\ContainsDuplicates.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\obj\Debug\ContainsDuplicates.csproj.CoreCompileInputs.cache
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\bin\Debug\ContainsDuplicates.exe.config
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\bin\Debug\ContainsDuplicates.exe
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\bin\Debug\ContainsDuplicates.pdb
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\obj\Debug\ContainsDuplicates.exe
-C:\MSSA\DSA\LeetCode\Easy\ContainsDuplicates\ContainsDuplicates\obj\Debug\ContainsDuplicates.pdb
