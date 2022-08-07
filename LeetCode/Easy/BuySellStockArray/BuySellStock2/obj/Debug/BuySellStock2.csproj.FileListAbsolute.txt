@@ -1,8 +1,0 @@
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\bin\Debug\BuySellStock2.exe.config
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\bin\Debug\BuySellStock2.exe
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\bin\Debug\BuySellStock2.pdb
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\obj\Debug\BuySellStock2.csproj.AssemblyReference.cache
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\obj\Debug\BuySellStock2.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\obj\Debug\BuySellStock2.csproj.CoreCompileInputs.cache
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\obj\Debug\BuySellStock2.exe
-C:\MSSA\DSA\LeetCode\Easy\BuySellStockArray\BuySellStock2\obj\Debug\BuySellStock2.pdb
