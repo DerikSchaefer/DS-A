@@ -1,8 +1,0 @@
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\bin\Debug\ReverseString.exe
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.AssemblyReference.cache
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\obj\Debug\ReverseString.exe
-C:\MSSA\DSA\LeetCode\Easy\Strings\ReverseString\ReverseString\obj\Debug\ReverseString.pdb
